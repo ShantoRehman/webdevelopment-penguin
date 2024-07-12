@@ -34,7 +34,12 @@ nav>ul li {
     max-width: 1000px;
     gap: 160px;
 }
-
+/* .winter{
+    margin-top: 10px;
+    padding: 2px 5px;
+    /* background: blue; */
+    color: aliceblue;
+} */
 .banner-title {
     font-weight: 60px;
 }
@@ -55,6 +60,7 @@ nav>ul li {
 }
 
 .banner-color {
+    padding-bottom: 20px;
     color: orange;
     font-weight: bold;
     font-size: 25PX;
@@ -75,6 +81,7 @@ main{
 .skills-title{
     margin-top: 20px;
     font-weight: bold;
+    color: black;
 }
 .selection{
     font-size: 14px;
